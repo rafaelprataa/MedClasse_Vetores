@@ -16,4 +16,7 @@
 					IMPRIMA ("E a salas maiores que a média são: Sala 1 com 35, Sala 5 com 36 e Sala 6 com 30 pessoas") 
 
     FIM
+    
+   ![fluxograma](https://user-images.githubusercontent.com/104045633/173457999-b8c061ab-e500-421d-a086-10e1d7a4a4e9.jpg)
+
 
